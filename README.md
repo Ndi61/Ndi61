@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naomi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript and React js
+- 🌱 I’m currently learning React js
 - 📫 You can reach me through email: naogbmi@gmail.com
 
 <!---
